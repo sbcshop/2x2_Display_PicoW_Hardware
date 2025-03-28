@@ -11,6 +11,8 @@ This Github provides hardware design files for 2x2 Display with Pico W.
   - [/Mechanical Data](https://github.com/sbcshop/2x2_Display_PicoW_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
   - [Getting Started Guide](https://github.com/sbcshop/2x2_Display_PicoW_Software) - This repo contains 2x2 Display with Pico W Getting Started instructions.
 
+**Disclaimer:** "The design files provided, including schematics, mechanical dimensions, and STEP files, are for reference only. Variations may exist between these files and the actual physical product. We do not assume responsibility for any discrepancies or damages resulting from their use. It is strongly recommended to verify all critical dimensions and specifications using the physical product before manufacturing or integration."
+
 ## Related Products  
   * [2x2 Display with ESP32 S3 (Round)](https://shop.sb-components.co.uk/products/2x2-quad-display-board?variant=41538301493331)
 
